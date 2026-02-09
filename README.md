@@ -16,6 +16,11 @@ Deciphering ancient scripts has been a long-standing challenge for historians an
 
 This program allows you to generate a large portion of these ancient scripts and save them as images. The program only generates numbers in the respective language, since the letters of all languages ​​were simply unknown in antiquity.
 
+<br>
+
+![CultureFonts](https://github.com/user-attachments/assets/1ef1f41d-cce4-4c78-918a-88e9cc061ccd)
+
+</br>
 
 
 
