@@ -10,7 +10,7 @@
 
 </br>
 
-
+The concept of a “font” as we understand it today began to take shape as societies transitioned from logographic writing systems to alphabets. An alphabet is a set of letters or symbols in a fixed order used to represent the basic sounds of a language. One of the earliest known alphabets is the Phoenician alphabet, which emerged around 1200 BCE. It consisted of 22 characters, each representing a consonant, and laid the groundwork for future alphabets, including Greek and Latin.
 
 
 
