@@ -12,6 +12,10 @@
 
 The concept of a “font” as we understand it today began to take shape as societies transitioned from logographic writing systems to alphabets. An alphabet is a set of letters or symbols in a fixed order used to represent the basic sounds of a language. One of the earliest known alphabets is the Phoenician alphabet, which emerged around 1200 BCE. It consisted of 22 characters, each representing a consonant, and laid the groundwork for future alphabets, including Greek and Latin.
 
+Deciphering ancient scripts has been a long-standing challenge for historians and linguists. The process of decoding these early writings provides crucial insights into the cultures and societies that produced them. The Rosetta Stone, discovered in 1799, was instrumental in unraveling the mysteries of Egyptian hieroglyphics. This artifact contained the same text in three scripts: Greek, Demotic, and hieroglyphic. By comparing the Greek text, which was already understood, with the other scripts, scholars were able to unlock the secrets of ancient Egyptian writing.
+
+This program allows you to generate a large portion of these ancient scripts and save them as images. The program only generates numbers in the respective language, since the letters of all languages ​​were simply unknown in antiquity.
+
 
 
 
