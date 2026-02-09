@@ -26,6 +26,13 @@ The modern digital landscape continues to benefit from the foundational work of 
 
 Understanding the first font in human history is more than just an academic pursuit; it is a journey into the heart of human expression and communication. The innovations and standardizations achieved by early civilizations laid the groundwork for the complex systems of writing that followed and continue to influence modern typography. By appreciating the origins and impact of these ancient fonts, we gain a deeper insight into the evolution of written language and its indispensable role in shaping human culture.
 
+# Ancient Font list:
 
+| Name | Date | Description |
+| :-----------: | :-----------: | :-----------: |
+| [Greek](https://en.wikipedia.org/wiki/Ancient_Greek)     | Ancient Greek system (around 600 BCE)     | Ancient Greek (Ἑλληνική, Hellēnikḗ [hellɛːnikɛ́ː]) includes the forms of the [Greek language](https://en.wikipedia.org/wiki/Greek_language) used in ancient Greece and the ancient world from around 1500 BC to 300 BC. It is often roughly divided into the following periods: Mycenaean Greek (c. 1400 – c. 1200 BC), Dark Ages (c. 1200 – c. 800 BC), the Archaic or Homeric period (c. 800 – c. 500 BC), and the Classical period (c. 500 – c. 300 BC).     |
+| Egypt     | Hieroglyphs of ancient Egypt     | Zelle 2,3     |
+| Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
+| Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
 
 
