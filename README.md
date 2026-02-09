@@ -31,7 +31,7 @@ Understanding the first font in human history is more than just an academic purs
 | Name | Date | Description |
 | :-----------: | :-----------: | :-----------: |
 | [Greek](https://en.wikipedia.org/wiki/Ancient_Greek)     | Ancient Greek system (around 600 BCE)     | Ancient Greek (Ἑλληνική, Hellēnikḗ [hellɛːnikɛ́ː]) includes the forms of the [Greek language](https://en.wikipedia.org/wiki/Greek_language) used in ancient Greece and the ancient world from around 1500 BC to 300 BC. It is often roughly divided into the following periods: Mycenaean Greek (c. 1400 – c. 1200 BC), Dark Ages (c. 1200 – c. 800 BC), the Archaic or Homeric period (c. 800 – c. 500 BC), and the Classical period (c. 500 – c. 300 BC).     |
-| Egypt     | Hieroglyphs of ancient Egypt     | Zelle 2,3     |
+| [Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt)     | Hieroglyphs of ancient Egypt     | Ancient Egypt was a cradle of civilization concentrated along the lower reaches of the Nile River in Northeast Africa. It emerged from prehistoric Egypt around 3150 BC (according to conventional Egyptian chronology), when Upper and Lower Egypt were united by Menes, who is believed by the majority of Egyptologists to have been the same person as Narmer. The history of ancient Egypt unfolded as a series of stable kingdoms interspersed by the "Intermediate Periods" of relative instability. These stable kingdoms existed in one of three periods: the Old Kingdom of the Early Bronze Age; the Middle Kingdom of the Middle Bronze Age; or the New Kingdom of the Late Bronze Age.     |
 | Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
 | Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
 
