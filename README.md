@@ -39,6 +39,14 @@ Understanding the first font in human history is more than just an academic purs
 | [Attic](https://en.wikipedia.org/wiki/Attic_Greek)     | Ancient Greek system (around 500 BCE)     | Attic Greek is the Greek dialect of the ancient region of [Attica](https://en.wikipedia.org/wiki/Attica), including the polis of Athens. Often called Classical Greek, it was the prestige dialect of the Greek world for centuries and remains the standard form of the language that is taught to students of Ancient Greek. As the basis of the Hellenistic Koine, it is the most similar of the ancient dialects to later Greek. Attic is traditionally classified as a member or sister dialect of the Ionic branch.     |
 | [Bengali](https://en.wikipedia.org/wiki/Old_Bengali)     | Modern system in Bangladesh, India     | Old Bengali was the earliest recorded form of the [Bengali language](https://en.wikipedia.org/wiki/Bengali_language), spoken in the Bengal region of eastern Indian subcontinent during the Middle Ages. It developed from an Apabhraṃśa of Magadhi Prakrit around 650 AD, and the first Bengali literary works date from the 8th century. Between 1200 and 1350 AD, no written form or literary work of Bengali language is found; during this period the Islamic conquest took place in Bengal.     |
 | [Braille](https://en.wikipedia.org/wiki/Perkins_Brailler#Braille_notetakers)     | 6-dot tactile writing     | Braille (/breɪl/ BRAYL; French: [bʁaj] ⓘ) is a tactile writing system used by blind or visually impaired people. It can be read either on embossed paper or by using refreshable braille displays that connect to computers and smartphone devices. Braille can be written using a slate and stylus, a [braille writer](https://en.wikipedia.org/wiki/Perkins_Brailler#Braille_notetakers), an electronic braille notetaker or with the use of a computer connected to a braille embosser. For blind readers, braille is an independent writing system, rather than a code of printed orthography.     |
+| [Farsi](https://en.wikipedia.org/wiki/Old_Persian)     | Current system in Iran     | Old Persian is one of two directly attested Old [Iranian languages](https://en.wikipedia.org/wiki/Iranian_languages#Old_Iranian) (the other being Avestan) and is the ancestor of Middle Persian (the language of the Sasanian Empire). Like other Old Iranian languages, it was known to its native speakers as ariya (Iranian). Old Persian is close to both Avestan and Vedic Sanskrit, and all three languages are highly inflected.     |
 | Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
+
+
+
+
+
+
+
 
 
