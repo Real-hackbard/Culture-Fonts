@@ -93,8 +93,11 @@ Understanding the first font in human history is more than just an academic purs
 https://www.dafont.com/ancient.font  
 https://www.fontspace.com/category/ancient
 
+# Modern Languages:
 
+![Number Word](https://github.com/user-attachments/assets/61b991c7-fa5a-479a-8d58-ef87a081cb9d)
 
+</br>
 
 
 
