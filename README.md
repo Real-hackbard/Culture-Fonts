@@ -94,6 +94,9 @@ https://www.dafont.com/ancient.font
 https://www.fontspace.com/category/ancient
 
 # Modern Languages:
+The second project generates numbers in modern languages. The characters of these languages ​​are copied in Unicode format.
+
+</br>
 
 ![Number Word](https://github.com/user-attachments/assets/61b991c7-fa5a-479a-8d58-ef87a081cb9d)
 
