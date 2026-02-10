@@ -86,7 +86,12 @@ Understanding the first font in human history is more than just an academic purs
 | [Thai](https://en.wikipedia.org/wiki/Thai_script)     | Traditional system of Thailand     | The Thai script (Thai: อักษรไทย, RTGS: akson thai, pronounced [ʔàksɔ̌ːn tʰāj]) is the abugida used to write Thai, [Southern Thai](https://en.wikipedia.org/wiki/Southern_Thai_language) and many other languages spoken in Thailand. The Thai script itself (as used to write Thai) has 44 consonant symbols (Thai: พยัญชนะ, phayanchana), 16 vowel symbols (Thai: สระ, sara) that combine into at least 32 vowel forms, four tone diacritics (Thai: วรรณยุกต์ or วรรณยุต, wannayuk or wannayut), and other diacritics.     |
 | [Zentlardy](https://www.omniglot.com/conscripts/zentlardy.htm)     | Art system for the Robotech cartoons (1980)     | The Zentlardy alphabet appeared in the 1980s cartoon series Robotech, which was based on the Japanese cartoon Macross (マクロス). The writing system was used in the cartoon on the side of alien space ships, and in the now-defunct roleplaying games Robotech and Macross II. The origins of the Zentlardy alphabet are unknown, though Kevin Siembieda of Palladium Books was probably involved. The name of the alphabet has a number of other spellings: Zentradi, Zjentohlauedy, Zentrady and Zentraedi, which are different transliterations of the Japanese ゼントラーディ (zentorādi).     |
 
+</br>
 
+### Download Ancient TTF:
+
+https://www.dafont.com/ancient.font
+https://www.fontspace.com/category/ancient
 
 
 
