@@ -64,6 +64,7 @@ Understanding the first font in human history is more than just an academic purs
 | [D'Ni](https://dni.fandom.com/wiki/D%27ni)     | Niger-Congo language (since 1949)     | The D'ni (D'ni spelling: D'nee meaning "New Beginning") are a civilization that once existed in an underground cave system on Earth. The people of D'ni were practitioners of the Art, a skill that allowed them to write books that could transport them to other worlds, called [Ages](https://dni.fandom.com/wiki/A%27gaeris).     |
 | [Dualcode](https://en.wikipedia.org/wiki/Dual_code)     | Dual computer art script (2002)     | In coding theory, the dual code of a [linear code](https://en.wikipedia.org/wiki/Linear_code)     |
 | [Ecclemony](https://en.wikipedia.org/wiki/Ancient_Greek_coinage)     | Hexadecimal computer art script (2002)     | [The history](https://en.wikipedia.org/wiki/Archaic_Greece) of ancient Greek coinage can be divided (along with most other Greek art forms) into four periods: the Archaic, the Classical, the Hellenistic and the Roman. The Archaic period extends from the introduction of coinage to the Greek world during the 7th century BC until the Persian Wars in about 480 BC.     |
+| [Four Line](https://en.wikipedia.org/wiki/Four_Symbols)     | Hexadecimal computer art script (2002)     | The Four Symbols are [mythological](https://en.wikipedia.org/wiki/Chinese_mythology) creatures appearing among the Chinese constellations along the ecliptic, and viewed as the guardians of the four cardinal directions.      |
 | Zelle 2,1     | Zelle 2,2     | Zelle 2,3     |
 
 
