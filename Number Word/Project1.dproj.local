@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.674,D:\Incoming\[.WORK]\zahlwort\uzwort.dfm=D:\Incoming\[.WORK]\zahlwort\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,D:\Incoming\[.WORK]\zahlwort\Project1.dproj=D:\Incoming\[.WORK]\zahlwort\pzwort.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,D:\Incoming\[.WORK]\zahlwort\uzwort.pas=D:\Incoming\[.WORK]\zahlwort\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
